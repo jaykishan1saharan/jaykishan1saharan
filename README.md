@@ -22,6 +22,7 @@ I’m a Computer Science student with a passion for web development, constantly 
 - Exploring modern web frameworks
 - Problem-solving through code
 
+
 # 📊 GitHub Stats:
 ![Jaykishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykishan1saharan&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykishan1saharan&layout=compact&theme=tokyonight)
@@ -37,5 +38,7 @@ I’m a Computer Science student with a passion for web development, constantly 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaykishan1saharan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaikishan-saharan-a67485327)
 
+![GitHub Snake Light](https://raw.githubusercontent.com/jaykishan1saharan/jaykishan1saharan/output/github-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/jaykishan1saharan/jaykishan1saharan/output/github-snake-dark.svg#gh-dark-mode-only)
 
 
