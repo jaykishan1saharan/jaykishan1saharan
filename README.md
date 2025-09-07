@@ -26,8 +26,16 @@ I’m a Computer Science student with a passion for web development, constantly 
 ![Jaykishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaykishan1saharan&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaykishan1saharan&layout=compact&theme=tokyonight)
 
-  
-# 📫 Let's Connect!
-Check out my projects and feel free to reach out for collaboration.
-🔗 [GitHub](https://github.com/jaykishan1saharan) | [LinkedIn](www.linkedin.com/in/jaikishan-saharan-a67485327)
+
+# 🚀 Featured Projects
+- 🔗 [Portfolio Website](https://your-portfolio-link.com) – Personal portfolio built with React.
+- 🔗 [Task Manager](https://github.com/username/repo) – Full-stack MERN task manager app.
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jaykishan1saharan&repo=your-repo&theme=tokyonight)](https://github.com/jaykishan1saharan/your-repo)
+
+# 📫 Let's Connect
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/jaykishan1saharan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jaikishan-saharan-a67485327)
+
+
 
