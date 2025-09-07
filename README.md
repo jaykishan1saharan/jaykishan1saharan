@@ -14,11 +14,6 @@ I’m a Computer Science student with a passion for web development, constantly 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) <br>
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
 
-
-# 💻 Tech Stack:
-- Frontend: HTML  CSS  JavaScript  React
-- Backend: Node.js  Express  MongoDB
-- Tools: Git  GitHub  VS Code
 - 
 # 🚀 Currently Learning:
 - front end development
