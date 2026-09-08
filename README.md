@@ -5,6 +5,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=0FF735&background=FF252500&multiline=true&width=700&height=80&lines=I+am+a+BTech+C.S.E+student.+%7C+Web+development.)](https://git.io/typing-svg)</p>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jaykishan1saharan&label=PROFILE%20VIEWS&color=7c3aed&style=flat-square" alt="Profile Views" />
+</p>
+
 # 👋 Hey, I'm Jaykishan Saharan!
 I’m a Computer Science student with a passion for web development, constantly exploring new technologies to create seamless digital experiences.
 
